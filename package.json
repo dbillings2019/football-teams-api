@@ -1,0 +1,24 @@
+{
+  "name": "football-teams-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbillings2019/football-teams-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbillings2019/football-teams-api/issues"
+  },
+  "homepage": "https://github.com/dbillings2019/football-teams-api#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "sequelize": "^4.42.0"
+  }
+}
